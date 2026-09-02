@@ -14,5 +14,5 @@ More projects in progress — check back for updates.
 
 ## Contact
 
-- LinkedIn: [your link]
+- LinkedIn: https://www.linkedin.com/in/vishalvreddy/
 - Email: vreddy0802@gmail.com
