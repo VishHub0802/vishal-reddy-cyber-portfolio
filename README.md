@@ -12,6 +12,12 @@ Each project uses a realistic (often fictional) scenario, applies a named indust
 |---|---------|-----------|---------------|
 | 01 | [Risk Assessment — Blue Ridge Family Health Clinic](./01-risk-assessment-blue-ridge) | NIST SP 800-30 | Risk assessment report, scored risk register |
 
+### Network Security
+
+| #  | Project | Tools | Deliverables |
+| --- | --- | --- | --- |
+| 02 | [Packet Analysis Tool](./02-packet-analyzer-lab) | Python, Scapy | Traffic parsing tool, synthetic packet generator |
+
 More categories and projects in progress — check back for updates.
 
 ## About
