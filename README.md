@@ -18,6 +18,12 @@ Each project uses a realistic (often fictional) scenario, applies a named indust
 | --- | --- | --- | --- |
 | 02 | [Packet Analysis Tool](./02-packet-analyzer-lab) | Python, Scapy | Traffic parsing tool, synthetic packet generator |
 
+### System Security
+
+| #  | Project | Tools | Deliverables |
+| --- | --- | --- | --- |
+| 03 | [Process Monitoring Lab](./03-process-monitor-lab) | Python, psutil | Host-based process monitor, alert log |
+
 More categories and projects in progress — check back for updates.
 
 ## About
