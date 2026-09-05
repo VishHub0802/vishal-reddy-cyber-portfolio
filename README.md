@@ -23,6 +23,7 @@ Each project uses a realistic (often fictional) scenario, applies a named indust
 | #  | Project | Tools | Deliverables |
 | --- | --- | --- | --- |
 | 03 | [Process Monitoring Lab](./03-process-monitor-lab) | Python, psutil | Host-based process monitor, alert log |
+| 04 | [Password Strength Validator](./04-password-validator) | Python | Password validation tool with rule-based scoring |
 
 More categories and projects in progress — check back for updates.
 
