@@ -16,14 +16,14 @@ Each project uses a realistic (often fictional) scenario, applies a named indust
 
 | #  | Project | Tools | Deliverables |
 | --- | --- | --- | --- |
-| 02 | [Packet Analysis Tool](./02-packet-analyzer-lab) | Python, Scapy | Traffic parsing tool, synthetic packet generator |
+| 01 | [Packet Analysis Tool](./02-packet-analyzer-lab) | Python, Scapy | Traffic parsing tool, synthetic packet generator |
 
 ### System Security
 
 | #  | Project | Tools | Deliverables |
 | --- | --- | --- | --- |
-| 03 | [Process Monitoring Lab](./03-process-monitor-lab) | Python, psutil | Host-based process monitor, alert log |
-| 04 | [Password Strength Validator](./04-password-validator) | Python | Password validation tool with rule-based scoring |
+| 01 | [Process Monitoring Lab](./03-process-monitor-lab) | Python, psutil | Host-based process monitor, alert log |
+| 02 | [Password Strength Validator](./04-password-validator) | Python | Password validation tool with rule-based scoring |
 
 More categories and projects in progress — check back for updates.
 
